@@ -36,4 +36,16 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0658-find-k-closest-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
