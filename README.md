@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/1094-car-pooling) |
 ## Sorting
 |  |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
