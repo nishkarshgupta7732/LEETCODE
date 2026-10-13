@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -63,9 +64,19 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishkarshgupta7732/LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
